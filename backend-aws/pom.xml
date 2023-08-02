@@ -14,13 +14,9 @@
 	<name>usuario-microservicio</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
-	<properties>
-    	<maven.compiler.source>11</maven.compiler.source>
-    	<maven.compiler.target>11</maven.compiler.target>
-	</properties>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
