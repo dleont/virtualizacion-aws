@@ -1,0 +1,6 @@
+ec\edu\ups\usuariomicroservicio\configurations\CORSConfig$1.class
+ec\edu\ups\usuariomicroservicio\Repository\PersonaRepository.class
+ec\edu\ups\usuariomicroservicio\controller\PersonaController.class
+ec\edu\ups\usuariomicroservicio\configurations\CORSConfig.class
+ec\edu\ups\usuariomicroservicio\entity\Persona.class
+ec\edu\ups\usuariomicroservicio\UsuarioMicroservicioApplication.class
