@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ec.edu.ups</groupId>
-	<artifactId>usuario-microservicio</artifactId>
+	<artifactId>usuario-microservicio-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>usuario-microservicio-v2</name>
+	<name>usuario-microservicio</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
